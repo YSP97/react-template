@@ -1,6 +1,6 @@
-# Vite custom template
+# Vite+React custom template
 
-# scaffold
+## scaffolding
 
 degit 명령으로 react 환경구성을 위한 vite template을 스캐폴딩 할 수 있습니다.
 
